@@ -24,5 +24,7 @@ As a part of a demo for Applications and Machine Learning, we will use a pre-tra
 
 ## License
   Based on: https://github.com/lengstrom/fast-style-transfer
+
   Check his cool work for more applications like video style transfer.
+  
   Copyright (c) 2016 Logan Engstrom.
