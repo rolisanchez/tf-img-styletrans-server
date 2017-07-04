@@ -1,0 +1,12 @@
+venv
+*.pyc
+node_modules
+static/js/main.js
+
+in_images/*
+out_images/*
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
